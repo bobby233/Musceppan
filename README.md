@@ -6,7 +6,7 @@ Ever faced with the situation that an excellent melody comes to your mind, but y
 - Record your music creations with less noise
 - Polish your music creations by checking the generated MIDI files
 - Convert your music creations to scores with nice typesetting
-- Generat scores in different formats through MIDI files
+- Generate scores in different formats through MIDI files
 - Play music via MIDI files (and score pictures [^1])
 
 Thanks to the cross-platform compatibility of Python, Musceppan will be available on macOS, Windows, Android, iOS (and Linux with no guarantee of stable use).
